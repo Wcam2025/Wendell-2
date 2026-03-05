@@ -12,6 +12,9 @@ Olá! Me chamo **Wendell** e sou desenvolvedor interessado em aprender novas tec
 
 Tenho interesse em **desenvolvimento web, backend e criação de sistemas**, sempre buscando evoluir minhas habilidades e aprender algo novo todos os dias.
 
+Atualmente estudo **Desenvolvimento de Sistemas** e curso **Engenharia de Software** no  
+<a href="https://www.somosicev.com/" target="_blank">ICEV - Instituto de Ensino Superior</a> em **Teresina - PI**.
+
 ---
 
 ## 🧠 Áreas de interesse
@@ -27,7 +30,15 @@ Tenho interesse em **desenvolvimento web, backend e criação de sistemas**, sem
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,laravel,git,mysql" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
 
 </p>
 
@@ -53,14 +64,10 @@ Eles representam minha evolução como desenvolvedor e minha busca constante por
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="LINK">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </p>
 
 ---
 
-## ✨ Filosofia
+## ✨ Frase
 
-> "A tecnologia muda o mundo, e cada linha de código é um passo nessa transformação."
+> "Aprender tecnologia é construir o futuro linha por linha de código."
