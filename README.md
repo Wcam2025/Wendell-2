@@ -45,11 +45,11 @@ Eles representam minha evolução como desenvolvedor e minha busca constante por
 
 <p>
 
-<a href="LINK">
+<a href="https://www.instagram.com/wendellcorreiamaia/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="LINK">
+<a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
