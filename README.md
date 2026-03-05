@@ -8,24 +8,24 @@ Desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
 
 ## 🚀 Sobre mim
 
-Olá! Me chamo **Wendell** e sou desenvolvedor interessado em aprender novas tecnologias e criar projetos inovadores.
+Olá! Me chamo **Wendell** e sou desenvolvedor interessado em aprender novas tecnologias e construir projetos que resolvam problemas reais.
 
-Atualmente estou focado em desenvolvimento **Web e Backend**, sempre buscando melhorar minhas habilidades e construir projetos cada vez melhores.
+Tenho interesse em **desenvolvimento web, backend e criação de sistemas**, sempre buscando evoluir minhas habilidades e aprender algo novo todos os dias.
 
 ---
 
-## 🧠 Habilidades
+## 🧠 Áreas de interesse
 
-💻 Desenvolvimento Web  
-⚙️ APIs e Backend  
-📱 Desenvolvimento de aplicações  
-🧩 Resolução de problemas  
+- 💻 Desenvolvimento Web
+- ⚙️ Backend e APIs
+- 📱 Desenvolvimento de aplicações
+- 🧩 Lógica de programação e resolução de problemas
 
 ---
 
 ## 🛠 Tecnologias
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,laravel,git,mysql" />
 
@@ -33,28 +33,34 @@ Atualmente estou focado em desenvolvimento **Web e Backend**, sempre buscando me
 
 ---
 
-## 📊 Estatísticas
+## 📂 Projetos
 
-<p align="center">
+Aqui você encontrará alguns projetos que desenvolvi durante meus estudos e experiências com programação.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=USUARIO_WENDELL&show_icons=true&theme=radical"/>
+Eles representam minha evolução como desenvolvedor e minha busca constante por aprendizado.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO_WENDELL&layout=compact&theme=radical"/>
+---
+
+## 🌎 Contato
+
+<p>
+
+<a href="LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="LINK">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 
 ---
 
-## 🌎 Redes sociais
+## ✨ Filosofia
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](LINK)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](LINK)
-
----
-
-## ✨ Frase
-
-> "Aprender tecnologia é construir o futuro linha por linha de código."
+> "A tecnologia muda o mundo, e cada linha de código é um passo nessa transformação."
